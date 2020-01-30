@@ -1,0 +1,6 @@
+C:\Users\Пользователь.DESKTOP-VC08GP4.000\source\repos\pract3\pract3\bin\Debug\pract3.exe.config
+C:\Users\Пользователь.DESKTOP-VC08GP4.000\source\repos\pract3\pract3\bin\Debug\pract3.exe
+C:\Users\Пользователь.DESKTOP-VC08GP4.000\source\repos\pract3\pract3\bin\Debug\pract3.pdb
+C:\Users\Пользователь.DESKTOP-VC08GP4.000\source\repos\pract3\pract3\obj\Debug\pract3.exe
+C:\Users\Пользователь.DESKTOP-VC08GP4.000\source\repos\pract3\pract3\obj\Debug\pract3.pdb
+C:\Users\Пользователь.DESKTOP-VC08GP4.000\source\repos\pract3\pract3\obj\Debug\pract3.csprojAssemblyReference.cache
